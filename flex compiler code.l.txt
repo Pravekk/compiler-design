@@ -1,0 +1,7 @@
+1. set path=C:\Program Files (x86)\GnuWin32\bin
+2. flex cal.l.txt
+3. set path=C:\MinGw\bin
+4. gcc lex.yy.c
+5. a
+6. Then give any two numbers for addition 
+     example:4+5.
